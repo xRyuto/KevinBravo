@@ -131,11 +131,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "orbitaltraderarrival",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "inspiration",
 		"price": 150,
 		"karmatype": "Good"
@@ -298,7 +293,7 @@
 	{
 		"abr": "trait",
 		"price": 3500,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "removetrait",
@@ -336,5 +331,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 67
+	"total": 66
 }
