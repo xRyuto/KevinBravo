@@ -9,7 +9,7 @@
 	{
 		"abr": "ads",
 		"price": 700,
-		"category": "Misc",
+		"category": "",
 		"defname": "PPCADS"
 	},
 	{
@@ -135,7 +135,7 @@
 	{
 		"abr": "airclimatecontrol",
 		"price": 800,
-		"category": "Misc",
+		"category": "",
 		"defname": "AirThermal"
 	},
 	{
@@ -279,19 +279,19 @@
 	{
 		"abr": "autoglassdoor",
 		"price": 17,
-		"category": "Misc",
+		"category": "",
 		"defname": "AutoDoorGlass"
 	},
 	{
 		"abr": "autocannonturret",
 		"price": 2117,
-		"category": "Misc",
+		"category": "",
 		"defname": "Turret_Autocannon"
 	},
 	{
 		"abr": "autodoor",
 		"price": 323,
-		"category": "Misc",
+		"category": "",
 		"defname": "Autodoor"
 	},
 	{
@@ -555,13 +555,13 @@
 	{
 		"abr": "blueairpipe",
 		"price": 3,
-		"category": "Misc",
+		"category": "",
 		"defname": "blueAirPipe"
 	},
 	{
 		"abr": "bluesterilewall",
 		"price": 61,
-		"category": "Misc",
+		"category": "",
 		"defname": "Wall_SterileBlue"
 	},
 	{
@@ -615,7 +615,7 @@
 	{
 		"abr": "brownsterilewall",
 		"price": 61,
-		"category": "Misc",
+		"category": "",
 		"defname": "Wall_SterileBrown"
 	},
 	{
@@ -645,7 +645,7 @@
 	{
 		"abr": "campfire",
 		"price": 41,
-		"category": "Misc",
+		"category": "",
 		"defname": "Campfire"
 	},
 	{
@@ -753,7 +753,7 @@
 	{
 		"abr": "chemfuelpoweredgenerator",
 		"price": 492,
-		"category": "Misc",
+		"category": "",
 		"defname": "ChemfuelPoweredGenerator"
 	},
 	{
@@ -837,19 +837,19 @@
 	{
 		"abr": "coldwaterpipe",
 		"price": 11,
-		"category": "Misc",
+		"category": "",
 		"defname": "waterPipe"
 	},
 	{
 		"abr": "coldwatervalve",
 		"price": 50,
-		"category": "Misc",
+		"category": "",
 		"defname": "waterValve"
 	},
 	{
 		"abr": "commsconsole",
 		"price": 608,
-		"category": "Misc",
+		"category": "",
 		"defname": "CommsConsole"
 	},
 	{
@@ -861,7 +861,7 @@
 	{
 		"abr": "consoleloom",
 		"price": 11,
-		"category": "Misc",
+		"category": "",
 		"defname": "controllerLoom"
 	},
 	{
@@ -873,31 +873,31 @@
 	{
 		"abr": "coolantpipe",
 		"price": 11,
-		"category": "Misc",
+		"category": "",
 		"defname": "coolingPipe"
 	},
 	{
 		"abr": "coolantvalve",
 		"price": 50,
-		"category": "Misc",
+		"category": "",
 		"defname": "coolantValve"
 	},
 	{
 		"abr": "cooler",
 		"price": 458,
-		"category": "Misc",
+		"category": "",
 		"defname": "Cooler"
 	},
 	{
 		"abr": "coolingtower",
 		"price": 3983,
-		"category": "Misc",
+		"category": "",
 		"defname": "CoolingTower"
 	},
 	{
 		"abr": "coredrill",
 		"price": 13150,
-		"category": "Misc",
+		"category": "",
 		"defname": "CoreDrill"
 	},
 	{
@@ -933,13 +933,13 @@
 	{
 		"abr": "creamsterilewall",
 		"price": 61,
-		"category": "Misc",
+		"category": "",
 		"defname": "Wall_SterileCream"
 	},
 	{
 		"abr": "cryptosleepcasket",
 		"price": 1183,
-		"category": "Misc",
+		"category": "",
 		"defname": "CryptosleepCasket"
 	},
 	{
@@ -957,7 +957,7 @@
 	{
 		"abr": "cyanairpipe",
 		"price": 3,
-		"category": "Misc",
+		"category": "",
 		"defname": "cyanAirPipe"
 	},
 	{
@@ -969,7 +969,7 @@
 	{
 		"abr": "darksterilewall",
 		"price": 61,
-		"category": "Misc",
+		"category": "",
 		"defname": "Wall_SterileDark"
 	},
 	{
@@ -1005,7 +1005,7 @@
 	{
 		"abr": "devastatormortar",
 		"price": 4825,
-		"category": "Misc",
+		"category": "",
 		"defname": "Turret_DevastatorMortarBomb"
 	},
 	{
@@ -1035,7 +1035,7 @@
 	{
 		"abr": "door",
 		"price": 88,
-		"category": "Misc",
+		"category": "",
 		"defname": "Door"
 	},
 	{
@@ -1053,13 +1053,13 @@
 	{
 		"abr": "doorbutton",
 		"price": 86,
-		"category": "Misc",
+		"category": "",
 		"defname": "PH_DoorButton"
 	},
 	{
 		"abr": "doorlever",
 		"price": 70,
-		"category": "Misc",
+		"category": "",
 		"defname": "PH_DoorLever"
 	},
 	{
@@ -1107,7 +1107,7 @@
 	{
 		"abr": "dublastdoor",
 		"price": 625,
-		"category": "Misc",
+		"category": "",
 		"defname": "DU_Blastdoor"
 	},
 	{
@@ -1143,7 +1143,7 @@
 	{
 		"abr": "electriccrematorium",
 		"price": 700,
-		"category": "Misc",
+		"category": "",
 		"defname": "ElectricCrematorium"
 	},
 	{
@@ -1293,7 +1293,7 @@
 	{
 		"abr": "fence",
 		"price": 11,
-		"category": "Misc",
+		"category": "",
 		"defname": "Abyss_Fence"
 	},
 	{
@@ -1425,7 +1425,7 @@
 	{
 		"abr": "geothermalgenerator",
 		"price": 1575,
-		"category": "Misc",
+		"category": "",
 		"defname": "GeothermalGenerator"
 	},
 	{
@@ -1443,7 +1443,7 @@
 	{
 		"abr": "glassdoor",
 		"price": 17,
-		"category": "Misc",
+		"category": "",
 		"defname": "DoorGlass"
 	},
 	{
@@ -1485,7 +1485,7 @@
 	{
 		"abr": "goldsterilewall",
 		"price": 61,
-		"category": "Misc",
+		"category": "",
 		"defname": "Wall_SterileGold"
 	},
 	{
@@ -1514,8 +1514,8 @@
 	},
 	{
 		"abr": "grave",
-		"price": 5,
-		"category": "Misc",
+		"price": -10,
+		"category": "",
 		"defname": "Grave"
 	},
 	{
@@ -1527,7 +1527,7 @@
 	{
 		"abr": "greensterilewall",
 		"price": 61,
-		"category": "Misc",
+		"category": "",
 		"defname": "Wall_SterileGreen"
 	},
 	{
@@ -1539,7 +1539,7 @@
 	{
 		"abr": "ground-penetratingscanner",
 		"price": 1692,
-		"category": "Misc",
+		"category": "",
 		"defname": "GroundPenetratingScanner"
 	},
 	{
@@ -1599,7 +1599,7 @@
 	{
 		"abr": "hel",
 		"price": 1083,
-		"category": "Misc",
+		"category": "",
 		"defname": "PPCHEL"
 	},
 	{
@@ -1611,13 +1611,13 @@
 	{
 		"abr": "highvoltage",
 		"price": 11,
-		"category": "Misc",
+		"category": "",
 		"defname": "HighVoltage"
 	},
 	{
 		"abr": "highvoltagetransformer",
 		"price": 867,
-		"category": "Misc",
+		"category": "",
 		"defname": "Transformer"
 	},
 	{
@@ -1647,7 +1647,7 @@
 	{
 		"abr": "hopper",
 		"price": 49,
-		"category": "Misc",
+		"category": "",
 		"defname": "Hopper"
 	},
 	{
@@ -1701,7 +1701,7 @@
 	{
 		"abr": "hydroponicsbasin",
 		"price": 383,
-		"category": "Misc",
+		"category": "",
 		"defname": "HydroponicsBasin"
 	},
 	{
@@ -1803,7 +1803,7 @@
 	{
 		"abr": "intakeairfan",
 		"price": 383,
-		"category": "Misc",
+		"category": "",
 		"defname": "IntakeFan"
 	},
 	{
@@ -1815,7 +1815,7 @@
 	{
 		"abr": "invisiblepowerconduit",
 		"price": 3,
-		"category": "Misc",
+		"category": "",
 		"defname": "PowerConduitInvisible"
 	},
 	{
@@ -1875,13 +1875,13 @@
 	{
 		"abr": "landingpad",
 		"price": 483,
-		"category": "Misc",
+		"category": "",
 		"defname": "LandingPad"
 	},
 	{
 		"abr": "largeairclimatecontrol",
 		"price": 2408,
-		"category": "Misc",
+		"category": "",
 		"defname": "LargeAirThermal"
 	},
 	{
@@ -1899,7 +1899,7 @@
 	{
 		"abr": "largeintakefan",
 		"price": 1142,
-		"category": "Misc",
+		"category": "",
 		"defname": "LargeIntakeFan"
 	},
 	{
@@ -1911,7 +1911,7 @@
 	{
 		"abr": "largeshieldgenerator",
 		"price": 6350,
-		"category": "Misc",
+		"category": "",
 		"defname": "Building_ShieldGeneratorLarge"
 	},
 	{
@@ -1935,7 +1935,7 @@
 	{
 		"abr": "liberator",
 		"price": 3942,
-		"category": "Misc",
+		"category": "",
 		"defname": "MissileSilo"
 	},
 	{
@@ -1953,7 +1953,7 @@
 	{
 		"abr": "lightningrod",
 		"price": 1250,
-		"category": "Misc",
+		"category": "",
 		"defname": "LightningRod"
 	},
 	{
@@ -1989,7 +1989,7 @@
 	{
 		"abr": "long-rangemineralscanner",
 		"price": 1625,
-		"category": "Misc",
+		"category": "",
 		"defname": "LongRangeMineralScanner"
 	},
 	{
@@ -2079,13 +2079,13 @@
 	{
 		"abr": "mannedvulcancannon",
 		"price": 3683,
-		"category": "Misc",
+		"category": "",
 		"defname": "VulcanCannonManned"
 	},
 	{
 		"abr": "marauder",
 		"price": 2783,
-		"category": "Misc",
+		"category": "",
 		"defname": "PPCMarauder"
 	},
 	{
@@ -2145,7 +2145,7 @@
 	{
 		"abr": "meditrain(tm)table",
 		"price": 300,
-		"category": "Misc",
+		"category": "",
 		"defname": "IF_MeditrainTable"
 	},
 	{
@@ -2247,7 +2247,7 @@
 	{
 		"abr": "moisturepump",
 		"price": 458,
-		"category": "Misc",
+		"category": "",
 		"defname": "MoisturePump"
 	},
 	{
@@ -2355,7 +2355,7 @@
 	{
 		"abr": "nutrientpastedispenser",
 		"price": 458,
-		"category": "Misc",
+		"category": "",
 		"defname": "NutrientPasteDispenser"
 	},
 	{
@@ -2367,7 +2367,7 @@
 	{
 		"abr": "obelisk",
 		"price": 2217,
-		"category": "Misc",
+		"category": "",
 		"defname": "PPCObelisk"
 	},
 	{
@@ -2397,7 +2397,7 @@
 	{
 		"abr": "orbitalrelay",
 		"price": 1825,
-		"category": "Misc",
+		"category": "",
 		"defname": "OrbitalRelay"
 	},
 	{
@@ -2475,7 +2475,7 @@
 	{
 		"abr": "passivecooler",
 		"price": 101,
-		"category": "Misc",
+		"category": "",
 		"defname": "PassiveCooler"
 	},
 	{
@@ -2559,13 +2559,13 @@
 	{
 		"abr": "plutoniumprocessor",
 		"price": 2642,
-		"category": "Misc",
+		"category": "",
 		"defname": "PlutoniumProcessor"
 	},
 	{
 		"abr": "podlauncher",
 		"price": 230,
-		"category": "Misc",
+		"category": "",
 		"defname": "PodLauncher"
 	},
 	{
@@ -2613,19 +2613,19 @@
 	{
 		"abr": "powerconduit",
 		"price": 3,
-		"category": "Misc",
+		"category": "",
 		"defname": "PowerConduit"
 	},
 	{
 		"abr": "powerswitch",
 		"price": 102,
-		"category": "Misc",
+		"category": "",
 		"defname": "PowerSwitch"
 	},
 	{
 		"abr": "ppc",
 		"price": 1767,
-		"category": "Misc",
+		"category": "",
 		"defname": "PPC"
 	},
 	{
@@ -2697,7 +2697,7 @@
 	{
 		"abr": "punisher",
 		"price": 1725,
-		"category": "Misc",
+		"category": "",
 		"defname": "PPCRailgun"
 	},
 	{
@@ -2721,7 +2721,7 @@
 	{
 		"abr": "radiationdetector",
 		"price": 191,
-		"category": "Misc",
+		"category": "",
 		"defname": "RadiationDetector"
 	},
 	{
@@ -2739,7 +2739,7 @@
 	{
 		"abr": "radiator",
 		"price": 1317,
-		"category": "Misc",
+		"category": "",
 		"defname": "CoolingRadiator"
 	},
 	{
@@ -2763,25 +2763,25 @@
 	{
 		"abr": "reactorconsole",
 		"price": 758,
-		"category": "Misc",
+		"category": "",
 		"defname": "ReactorControl"
 	},
 	{
 		"abr": "reactortypea",
 		"price": 1808,
-		"category": "Misc",
+		"category": "",
 		"defname": "ReactorCoreA"
 	},
 	{
 		"abr": "reactortypev",
 		"price": 7625,
-		"category": "Misc",
+		"category": "",
 		"defname": "ReactorCoreC"
 	},
 	{
 		"abr": "reactortypex",
 		"price": 3925,
-		"category": "Misc",
+		"category": "",
 		"defname": "ReactorCoreB"
 	},
 	{
@@ -2793,7 +2793,7 @@
 	{
 		"abr": "redairpipe",
 		"price": 3,
-		"category": "Misc",
+		"category": "",
 		"defname": "redAirPipe"
 	},
 	{
@@ -2805,13 +2805,13 @@
 	{
 		"abr": "redsterilewall",
 		"price": 61,
-		"category": "Misc",
+		"category": "",
 		"defname": "Wall_SterileRed"
 	},
 	{
 		"abr": "reinforcedduwall",
 		"price": 157,
-		"category": "Misc",
+		"category": "",
 		"defname": "RadiationShielding"
 	},
 	{
@@ -2853,13 +2853,13 @@
 	{
 		"abr": "researchcounter",
 		"price": 86,
-		"category": "Misc",
+		"category": "",
 		"defname": "Facility_ResearchCounter"
 	},
 	{
 		"abr": "researchreactor",
 		"price": 2175,
-		"category": "Misc",
+		"category": "",
 		"defname": "ResearchReactor"
 	},
 	{
@@ -2895,13 +2895,13 @@
 	{
 		"abr": "rimatomicsmachiningtable",
 		"price": 800,
-		"category": "Misc",
+		"category": "",
 		"defname": "TableRimatomicsMachining"
 	},
 	{
 		"abr": "rimatomicsresearchbench",
 		"price": 1375,
-		"category": "Misc",
+		"category": "",
 		"defname": "NuclearResearchBench"
 	},
 	{
@@ -2997,7 +2997,7 @@
 	{
 		"abr": "sacs",
 		"price": 1167,
-		"category": "Misc",
+		"category": "",
 		"defname": "PPCWeaponsConsole"
 	},
 	{
@@ -3009,7 +3009,7 @@
 	{
 		"abr": "sandbags",
 		"price": 17,
-		"category": "Misc",
+		"category": "",
 		"defname": "Sandbags"
 	},
 	{
@@ -3027,25 +3027,25 @@
 	{
 		"abr": "sarcophagus",
 		"price": 214,
-		"category": "Misc",
+		"category": "",
 		"defname": "Sarcophagus"
 	},
 	{
 		"abr": "sarcophagustypea",
 		"price": 1167,
-		"category": "Misc",
+		"category": "",
 		"defname": "ReactorSacrophagus"
 	},
 	{
 		"abr": "sarcophagustypev",
 		"price": 1167,
-		"category": "Misc",
+		"category": "",
 		"defname": "ReactorSacrophagusC"
 	},
 	{
 		"abr": "sarcophagustypex",
 		"price": 1167,
-		"category": "Misc",
+		"category": "",
 		"defname": "ReactorSacrophagusB"
 	},
 	{
@@ -3069,7 +3069,7 @@
 	{
 		"abr": "sensorcluster",
 		"price": 3008,
-		"category": "Misc",
+		"category": "",
 		"defname": "Ship_SensorCluster"
 	},
 	{
@@ -3093,37 +3093,37 @@
 	{
 		"abr": "shieldgenerator",
 		"price": 3175,
-		"category": "Misc",
+		"category": "",
 		"defname": "Building_ShieldGenerator"
 	},
 	{
 		"abr": "shipcomputercore",
 		"price": 9742,
-		"category": "Misc",
+		"category": "",
 		"defname": "Ship_ComputerCore"
 	},
 	{
 		"abr": "shipcryptosleepcasket",
 		"price": 1725,
-		"category": "Misc",
+		"category": "",
 		"defname": "Ship_CryptosleepCasket"
 	},
 	{
 		"abr": "shipengine",
 		"price": 5925,
-		"category": "Misc",
+		"category": "",
 		"defname": "Ship_Engine"
 	},
 	{
 		"abr": "shipreactor",
 		"price": 9067,
-		"category": "Misc",
+		"category": "",
 		"defname": "Ship_Reactor"
 	},
 	{
 		"abr": "shipstructuralbeam",
 		"price": 1775,
-		"category": "Misc",
+		"category": "",
 		"defname": "Ship_Beam"
 	},
 	{
@@ -3303,7 +3303,7 @@
 	{
 		"abr": "smallwallmountedairvent",
 		"price": 112,
-		"category": "Misc",
+		"category": "",
 		"defname": "WallAirVentSmall"
 	},
 	{
@@ -3339,7 +3339,7 @@
 	{
 		"abr": "solargenerator",
 		"price": 492,
-		"category": "Misc",
+		"category": "",
 		"defname": "SolarGenerator"
 	},
 	{
@@ -3399,13 +3399,13 @@
 	{
 		"abr": "steampipe",
 		"price": 11,
-		"category": "Misc",
+		"category": "",
 		"defname": "steamPipe"
 	},
 	{
 		"abr": "steamvalve",
 		"price": 50,
-		"category": "Misc",
+		"category": "",
 		"defname": "steamValve"
 	},
 	{
@@ -3429,7 +3429,7 @@
 	{
 		"abr": "stonecampfire",
 		"price": 128,
-		"category": "Misc",
+		"category": "",
 		"defname": "Stone_Campfire"
 	},
 	{
@@ -3447,7 +3447,7 @@
 	{
 		"abr": "storagepool",
 		"price": 1850,
-		"category": "Misc",
+		"category": "",
 		"defname": "storagePool"
 	},
 	{
@@ -3459,7 +3459,7 @@
 	{
 		"abr": "subsurfaceconduit",
 		"price": 15,
-		"category": "Misc",
+		"category": "",
 		"defname": "MUR_SubsurfaceConduit"
 	},
 	{
@@ -3501,13 +3501,13 @@
 	{
 		"abr": "surroundairvent",
 		"price": 675,
-		"category": "Misc",
+		"category": "",
 		"defname": "SurroundAirVent"
 	},
 	{
 		"abr": "surroundairventwide",
 		"price": 1342,
-		"category": "Misc",
+		"category": "",
 		"defname": "SurroundAirVentWide"
 	},
 	{
@@ -3585,7 +3585,7 @@
 	{
 		"abr": "tacs",
 		"price": 1258,
-		"category": "Misc",
+		"category": "",
 		"defname": "RadarDish"
 	},
 	{
@@ -3603,7 +3603,7 @@
 	{
 		"abr": "tealsterilewall",
 		"price": 61,
-		"category": "Misc",
+		"category": "",
 		"defname": "Wall_SterileTeal"
 	},
 	{
@@ -3621,13 +3621,13 @@
 	{
 		"abr": "teslacoil",
 		"price": 792,
-		"category": "Misc",
+		"category": "",
 		"defname": "PPCTeslaCoil"
 	},
 	{
 		"abr": "thorturbine",
 		"price": 2017,
-		"category": "Misc",
+		"category": "",
 		"defname": "Turbine"
 	},
 	{
@@ -3669,7 +3669,7 @@
 	{
 		"abr": "torchlamp",
 		"price": 41,
-		"category": "Misc",
+		"category": "",
 		"defname": "TorchLamp"
 	},
 	{
@@ -3693,7 +3693,7 @@
 	{
 		"abr": "transportpod",
 		"price": 253,
-		"category": "Misc",
+		"category": "",
 		"defname": "TransportPod"
 	},
 	{
@@ -3765,7 +3765,7 @@
 	{
 		"abr": "uraniumslugturret",
 		"price": 2408,
-		"category": "Misc",
+		"category": "",
 		"defname": "Turret_Sniper"
 	},
 	{
@@ -3777,7 +3777,7 @@
 	{
 		"abr": "vent",
 		"price": 97,
-		"category": "Misc",
+		"category": "",
 		"defname": "Vent"
 	},
 	{
@@ -3795,7 +3795,7 @@
 	{
 		"abr": "vulcancannon",
 		"price": 4433,
-		"category": "Misc",
+		"category": "",
 		"defname": "VulcanCannon"
 	},
 	{
@@ -3807,7 +3807,7 @@
 	{
 		"abr": "wall",
 		"price": 17,
-		"category": "Misc",
+		"category": "",
 		"defname": "Wall"
 	},
 	{
@@ -3873,7 +3873,7 @@
 	{
 		"abr": "wallmountedairvent",
 		"price": 224,
-		"category": "Misc",
+		"category": "",
 		"defname": "WallAirVent"
 	},
 	{
@@ -3909,19 +3909,19 @@
 	{
 		"abr": "watercooling",
 		"price": 2025,
-		"category": "Misc",
+		"category": "",
 		"defname": "CoolingWater"
 	},
 	{
 		"abr": "watermillgenerator",
 		"price": 1000,
-		"category": "Misc",
+		"category": "",
 		"defname": "WatermillGenerator"
 	},
 	{
 		"abr": "waterproofconduit",
 		"price": 10,
-		"category": "Misc",
+		"category": "",
 		"defname": "WaterproofConduit"
 	},
 	{
@@ -3933,7 +3933,7 @@
 	{
 		"abr": "weaponsresearchbench",
 		"price": 1217,
-		"category": "Misc",
+		"category": "",
 		"defname": "WeaponsBench"
 	},
 	{
@@ -3957,13 +3957,13 @@
 	{
 		"abr": "windturbine",
 		"price": 442,
-		"category": "Misc",
+		"category": "",
 		"defname": "WindTurbine"
 	},
 	{
 		"abr": "window",
 		"price": 25,
-		"category": "Misc",
+		"category": "",
 		"defname": "Window"
 	},
 	{
@@ -3987,7 +3987,7 @@
 	{
 		"abr": "wood-firedgenerator",
 		"price": 442,
-		"category": "Misc",
+		"category": "",
 		"defname": "WoodFiredGenerator"
 	},
 	{
@@ -4011,7 +4011,7 @@
 	{
 		"abr": "zeusturbine",
 		"price": 6075,
-		"category": "Misc",
+		"category": "",
 		"defname": "BigTurbine"
 	},
 	{
