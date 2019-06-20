@@ -22,7 +22,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 1600,
+		"price": 650,
 		"karmatype": "Neutral"
 	},
 	{
@@ -82,12 +82,12 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 4200,
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 2600,
+		"price": 3200,
 		"karmatype": "Doom"
 	},
 	{
@@ -131,8 +131,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "inspiration",
-		"price": 150,
+		"abr": "orbitaltraderarrival",
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -142,7 +142,7 @@
 	},
 	{
 		"abr": "madanimal",
-		"price": 600,
+		"price": 200,
 		"karmatype": "Bad"
 	},
 	{
@@ -162,12 +162,12 @@
 	},
 	{
 		"abr": "herdmigration",
-		"price": 400,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "farmanimals",
-		"price": 200,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -187,7 +187,7 @@
 	},
 	{
 		"abr": "travelergroup",
-		"price": 350,
+		"price": 80,
 		"karmatype": "Good"
 	},
 	{
@@ -281,19 +281,14 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "gambleskill",
+		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
 		"price": 3500,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
@@ -307,7 +302,7 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 1000,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -318,6 +313,11 @@
 	{
 		"abr": "berescued",
 		"price": 900,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "randominspire",
+		"price": 450,
 		"karmatype": "Good"
 	},
 	{
