@@ -1,6 +1,48 @@
 {
 	"items" : [
 	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Red"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Blue"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Green"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Violet"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Yellow"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Orange"
+	},
+	{
 		"abr": "adrenalineribreplacement",
 		"price": 1333,
 		"category": "Bionics",
@@ -9,7 +51,7 @@
 	{
 		"abr": "ads",
 		"price": 700,
-		"category": "",
+		"category": "Misc",
 		"defname": "PPCADS"
 	},
 	{
@@ -135,7 +177,7 @@
 	{
 		"abr": "airclimatecontrol",
 		"price": 800,
-		"category": "",
+		"category": "Misc",
 		"defname": "AirThermal"
 	},
 	{
@@ -279,19 +321,19 @@
 	{
 		"abr": "autoglassdoor",
 		"price": 17,
-		"category": "",
+		"category": "Misc",
 		"defname": "AutoDoorGlass"
 	},
 	{
 		"abr": "autocannonturret",
 		"price": 2117,
-		"category": "",
+		"category": "Misc",
 		"defname": "Turret_Autocannon"
 	},
 	{
 		"abr": "autodoor",
 		"price": 323,
-		"category": "",
+		"category": "Misc",
 		"defname": "Autodoor"
 	},
 	{
@@ -395,12 +437,6 @@
 		"price": 600,
 		"category": "Furniture",
 		"defname": "BilliardsTable"
-	},
-	{
-		"abr": "biofuelrefinery",
-		"price": 650,
-		"category": "",
-		"defname": "BiofuelRefinery"
 	},
 	{
 		"abr": "bionicanimalarm",
@@ -555,13 +591,13 @@
 	{
 		"abr": "blueairpipe",
 		"price": 3,
-		"category": "",
+		"category": "Misc",
 		"defname": "blueAirPipe"
 	},
 	{
 		"abr": "bluesterilewall",
 		"price": 61,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileBlue"
 	},
 	{
@@ -615,7 +651,7 @@
 	{
 		"abr": "brownsterilewall",
 		"price": 61,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileBrown"
 	},
 	{
@@ -645,7 +681,7 @@
 	{
 		"abr": "campfire",
 		"price": 41,
-		"category": "",
+		"category": "Misc",
 		"defname": "Campfire"
 	},
 	{
@@ -688,43 +724,43 @@
 		"abr": "ceilinglamp",
 		"price": 49,
 		"category": "Furniture",
-		"defname": "CeilingLamp"
+		"defname": "GLCeilingLamp"
 	},
 	{
 		"abr": "ceilinglamp(blue)",
 		"price": 49,
 		"category": "Furniture",
-		"defname": "CeilingLamp_Blue"
+		"defname": "GLCeilingLamp_Blue"
 	},
 	{
 		"abr": "ceilinglamp(green)",
 		"price": 49,
 		"category": "Furniture",
-		"defname": "CeilingLamp_Green"
+		"defname": "GLCeilingLamp_Green"
 	},
 	{
 		"abr": "ceilinglamp(orange)",
 		"price": 49,
 		"category": "Furniture",
-		"defname": "CeilingLamp_Orange"
+		"defname": "GLCeilingLamp_Orange"
 	},
 	{
 		"abr": "ceilinglamp(red)",
 		"price": 49,
 		"category": "Furniture",
-		"defname": "CeilingLamp_Red"
+		"defname": "GLCeilingLamp_Red"
 	},
 	{
 		"abr": "ceilinglamp(violet)",
 		"price": 49,
 		"category": "Furniture",
-		"defname": "CeilingLamp_Violet"
+		"defname": "GLCeilingLamp_Violet"
 	},
 	{
 		"abr": "ceilinglamp(yellow)",
 		"price": 49,
 		"category": "Furniture",
-		"defname": "CeilingLamp_Yellow"
+		"defname": "GLCeilingLamp_Yellow"
 	},
 	{
 		"abr": "chainshotgun",
@@ -753,7 +789,7 @@
 	{
 		"abr": "chemfuelpoweredgenerator",
 		"price": 492,
-		"category": "",
+		"category": "Misc",
 		"defname": "ChemfuelPoweredGenerator"
 	},
 	{
@@ -837,19 +873,19 @@
 	{
 		"abr": "coldwaterpipe",
 		"price": 11,
-		"category": "",
+		"category": "Misc",
 		"defname": "waterPipe"
 	},
 	{
 		"abr": "coldwatervalve",
 		"price": 50,
-		"category": "",
+		"category": "Misc",
 		"defname": "waterValve"
 	},
 	{
 		"abr": "commsconsole",
 		"price": 608,
-		"category": "",
+		"category": "Misc",
 		"defname": "CommsConsole"
 	},
 	{
@@ -861,7 +897,7 @@
 	{
 		"abr": "consoleloom",
 		"price": 11,
-		"category": "",
+		"category": "Misc",
 		"defname": "controllerLoom"
 	},
 	{
@@ -873,31 +909,31 @@
 	{
 		"abr": "coolantpipe",
 		"price": 11,
-		"category": "",
+		"category": "Misc",
 		"defname": "coolingPipe"
 	},
 	{
 		"abr": "coolantvalve",
 		"price": 50,
-		"category": "",
+		"category": "Misc",
 		"defname": "coolantValve"
 	},
 	{
 		"abr": "cooler",
 		"price": 458,
-		"category": "",
+		"category": "Misc",
 		"defname": "Cooler"
 	},
 	{
 		"abr": "coolingtower",
 		"price": 3983,
-		"category": "",
+		"category": "Misc",
 		"defname": "CoolingTower"
 	},
 	{
 		"abr": "coredrill",
 		"price": 13150,
-		"category": "",
+		"category": "Misc",
 		"defname": "CoreDrill"
 	},
 	{
@@ -933,13 +969,13 @@
 	{
 		"abr": "creamsterilewall",
 		"price": 61,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileCream"
 	},
 	{
 		"abr": "cryptosleepcasket",
 		"price": 1183,
-		"category": "",
+		"category": "Misc",
 		"defname": "CryptosleepCasket"
 	},
 	{
@@ -957,7 +993,7 @@
 	{
 		"abr": "cyanairpipe",
 		"price": 3,
-		"category": "",
+		"category": "Misc",
 		"defname": "cyanAirPipe"
 	},
 	{
@@ -969,7 +1005,7 @@
 	{
 		"abr": "darksterilewall",
 		"price": 61,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileDark"
 	},
 	{
@@ -1005,7 +1041,7 @@
 	{
 		"abr": "devastatormortar",
 		"price": 4825,
-		"category": "",
+		"category": "Misc",
 		"defname": "Turret_DevastatorMortarBomb"
 	},
 	{
@@ -1035,7 +1071,7 @@
 	{
 		"abr": "door",
 		"price": 88,
-		"category": "",
+		"category": "Misc",
 		"defname": "Door"
 	},
 	{
@@ -1053,13 +1089,13 @@
 	{
 		"abr": "doorbutton",
 		"price": 86,
-		"category": "",
+		"category": "Misc",
 		"defname": "PH_DoorButton"
 	},
 	{
 		"abr": "doorlever",
 		"price": 70,
-		"category": "",
+		"category": "Misc",
 		"defname": "PH_DoorLever"
 	},
 	{
@@ -1107,7 +1143,7 @@
 	{
 		"abr": "dublastdoor",
 		"price": 625,
-		"category": "",
+		"category": "Misc",
 		"defname": "DU_Blastdoor"
 	},
 	{
@@ -1143,7 +1179,7 @@
 	{
 		"abr": "electriccrematorium",
 		"price": 700,
-		"category": "",
+		"category": "Misc",
 		"defname": "ElectricCrematorium"
 	},
 	{
@@ -1285,15 +1321,9 @@
 		"defname": "Eye"
 	},
 	{
-		"abr": "fabricationbench",
-		"price": 1967,
-		"category": "",
-		"defname": "FabricationBench"
-	},
-	{
 		"abr": "fence",
 		"price": 11,
-		"category": "",
+		"category": "Misc",
 		"defname": "Abyss_Fence"
 	},
 	{
@@ -1425,7 +1455,7 @@
 	{
 		"abr": "geothermalgenerator",
 		"price": 1575,
-		"category": "",
+		"category": "Misc",
 		"defname": "GeothermalGenerator"
 	},
 	{
@@ -1443,7 +1473,7 @@
 	{
 		"abr": "glassdoor",
 		"price": 17,
-		"category": "",
+		"category": "Misc",
 		"defname": "DoorGlass"
 	},
 	{
@@ -1485,7 +1515,7 @@
 	{
 		"abr": "goldsterilewall",
 		"price": 61,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileGold"
 	},
 	{
@@ -1515,7 +1545,7 @@
 	{
 		"abr": "grave",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Grave"
 	},
 	{
@@ -1527,7 +1557,7 @@
 	{
 		"abr": "greensterilewall",
 		"price": 61,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileGreen"
 	},
 	{
@@ -1539,7 +1569,7 @@
 	{
 		"abr": "ground-penetratingscanner",
 		"price": 1692,
-		"category": "",
+		"category": "Misc",
 		"defname": "GroundPenetratingScanner"
 	},
 	{
@@ -1599,7 +1629,7 @@
 	{
 		"abr": "hel",
 		"price": 1083,
-		"category": "",
+		"category": "Misc",
 		"defname": "PPCHEL"
 	},
 	{
@@ -1611,13 +1641,13 @@
 	{
 		"abr": "highvoltage",
 		"price": 11,
-		"category": "",
+		"category": "Misc",
 		"defname": "HighVoltage"
 	},
 	{
 		"abr": "highvoltagetransformer",
 		"price": 867,
-		"category": "",
+		"category": "Misc",
 		"defname": "Transformer"
 	},
 	{
@@ -1625,12 +1655,6 @@
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_HighExplosive"
-	},
-	{
-		"abr": "hi-techresearchbench",
-		"price": 1383,
-		"category": "",
-		"defname": "HiTechResearchBench"
 	},
 	{
 		"abr": "hookhand",
@@ -1647,7 +1671,7 @@
 	{
 		"abr": "hopper",
 		"price": 49,
-		"category": "",
+		"category": "Misc",
 		"defname": "Hopper"
 	},
 	{
@@ -1701,7 +1725,7 @@
 	{
 		"abr": "hydroponicsbasin",
 		"price": 383,
-		"category": "",
+		"category": "Misc",
 		"defname": "HydroponicsBasin"
 	},
 	{
@@ -1803,7 +1827,7 @@
 	{
 		"abr": "intakeairfan",
 		"price": 383,
-		"category": "",
+		"category": "Misc",
 		"defname": "IntakeFan"
 	},
 	{
@@ -1815,7 +1839,7 @@
 	{
 		"abr": "invisiblepowerconduit",
 		"price": 3,
-		"category": "",
+		"category": "Misc",
 		"defname": "PowerConduitInvisible"
 	},
 	{
@@ -1875,13 +1899,13 @@
 	{
 		"abr": "landingpad",
 		"price": 483,
-		"category": "",
+		"category": "Misc",
 		"defname": "LandingPad"
 	},
 	{
 		"abr": "largeairclimatecontrol",
 		"price": 2408,
-		"category": "",
+		"category": "Misc",
 		"defname": "LargeAirThermal"
 	},
 	{
@@ -1899,7 +1923,7 @@
 	{
 		"abr": "largeintakefan",
 		"price": 1142,
-		"category": "",
+		"category": "Misc",
 		"defname": "LargeIntakeFan"
 	},
 	{
@@ -1911,7 +1935,7 @@
 	{
 		"abr": "largeshieldgenerator",
 		"price": 6350,
-		"category": "",
+		"category": "Misc",
 		"defname": "Building_ShieldGeneratorLarge"
 	},
 	{
@@ -1935,7 +1959,7 @@
 	{
 		"abr": "liberator",
 		"price": 3942,
-		"category": "",
+		"category": "Misc",
 		"defname": "MissileSilo"
 	},
 	{
@@ -1953,7 +1977,7 @@
 	{
 		"abr": "lightningrod",
 		"price": 1250,
-		"category": "",
+		"category": "Misc",
 		"defname": "LightningRod"
 	},
 	{
@@ -1989,7 +2013,7 @@
 	{
 		"abr": "long-rangemineralscanner",
 		"price": 1625,
-		"category": "",
+		"category": "Misc",
 		"defname": "LongRangeMineralScanner"
 	},
 	{
@@ -2079,13 +2103,13 @@
 	{
 		"abr": "mannedvulcancannon",
 		"price": 3683,
-		"category": "",
+		"category": "Misc",
 		"defname": "VulcanCannonManned"
 	},
 	{
 		"abr": "marauder",
 		"price": 2783,
-		"category": "",
+		"category": "Misc",
 		"defname": "PPCMarauder"
 	},
 	{
@@ -2145,7 +2169,7 @@
 	{
 		"abr": "meditrain(tm)table",
 		"price": 300,
-		"category": "",
+		"category": "Misc",
 		"defname": "IF_MeditrainTable"
 	},
 	{
@@ -2247,7 +2271,7 @@
 	{
 		"abr": "moisturepump",
 		"price": 458,
-		"category": "",
+		"category": "Misc",
 		"defname": "MoisturePump"
 	},
 	{
@@ -2355,7 +2379,7 @@
 	{
 		"abr": "nutrientpastedispenser",
 		"price": 458,
-		"category": "",
+		"category": "Misc",
 		"defname": "NutrientPasteDispenser"
 	},
 	{
@@ -2367,7 +2391,7 @@
 	{
 		"abr": "obelisk",
 		"price": 2217,
-		"category": "",
+		"category": "Misc",
 		"defname": "PPCObelisk"
 	},
 	{
@@ -2397,7 +2421,7 @@
 	{
 		"abr": "orbitalrelay",
 		"price": 1825,
-		"category": "",
+		"category": "Misc",
 		"defname": "OrbitalRelay"
 	},
 	{
@@ -2475,7 +2499,7 @@
 	{
 		"abr": "passivecooler",
 		"price": 101,
-		"category": "",
+		"category": "Misc",
 		"defname": "PassiveCooler"
 	},
 	{
@@ -2559,13 +2583,13 @@
 	{
 		"abr": "plutoniumprocessor",
 		"price": 2642,
-		"category": "",
+		"category": "Misc",
 		"defname": "PlutoniumProcessor"
 	},
 	{
 		"abr": "podlauncher",
 		"price": 230,
-		"category": "",
+		"category": "Misc",
 		"defname": "PodLauncher"
 	},
 	{
@@ -2613,19 +2637,19 @@
 	{
 		"abr": "powerconduit",
 		"price": 3,
-		"category": "",
+		"category": "Misc",
 		"defname": "PowerConduit"
 	},
 	{
 		"abr": "powerswitch",
 		"price": 102,
-		"category": "",
+		"category": "Misc",
 		"defname": "PowerSwitch"
 	},
 	{
 		"abr": "ppc",
 		"price": 1767,
-		"category": "",
+		"category": "Misc",
 		"defname": "PPC"
 	},
 	{
@@ -2697,7 +2721,7 @@
 	{
 		"abr": "punisher",
 		"price": 1725,
-		"category": "",
+		"category": "Misc",
 		"defname": "PPCRailgun"
 	},
 	{
@@ -2721,7 +2745,7 @@
 	{
 		"abr": "radiationdetector",
 		"price": 191,
-		"category": "",
+		"category": "Misc",
 		"defname": "RadiationDetector"
 	},
 	{
@@ -2739,7 +2763,7 @@
 	{
 		"abr": "radiator",
 		"price": 1317,
-		"category": "",
+		"category": "Misc",
 		"defname": "CoolingRadiator"
 	},
 	{
@@ -2763,25 +2787,25 @@
 	{
 		"abr": "reactorconsole",
 		"price": 758,
-		"category": "",
+		"category": "Misc",
 		"defname": "ReactorControl"
 	},
 	{
 		"abr": "reactortypea",
 		"price": 1808,
-		"category": "",
+		"category": "Misc",
 		"defname": "ReactorCoreA"
 	},
 	{
 		"abr": "reactortypev",
 		"price": 7625,
-		"category": "",
+		"category": "Misc",
 		"defname": "ReactorCoreC"
 	},
 	{
 		"abr": "reactortypex",
 		"price": 3925,
-		"category": "",
+		"category": "Misc",
 		"defname": "ReactorCoreB"
 	},
 	{
@@ -2793,7 +2817,7 @@
 	{
 		"abr": "redairpipe",
 		"price": 3,
-		"category": "",
+		"category": "Misc",
 		"defname": "redAirPipe"
 	},
 	{
@@ -2805,13 +2829,13 @@
 	{
 		"abr": "redsterilewall",
 		"price": 61,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileRed"
 	},
 	{
 		"abr": "reinforcedduwall",
 		"price": 157,
-		"category": "",
+		"category": "Misc",
 		"defname": "RadiationShielding"
 	},
 	{
@@ -2853,13 +2877,13 @@
 	{
 		"abr": "researchcounter",
 		"price": 86,
-		"category": "",
+		"category": "Misc",
 		"defname": "Facility_ResearchCounter"
 	},
 	{
 		"abr": "researchreactor",
 		"price": 2175,
-		"category": "",
+		"category": "Misc",
 		"defname": "ResearchReactor"
 	},
 	{
@@ -2895,13 +2919,13 @@
 	{
 		"abr": "rimatomicsmachiningtable",
 		"price": 800,
-		"category": "",
+		"category": "Misc",
 		"defname": "TableRimatomicsMachining"
 	},
 	{
 		"abr": "rimatomicsresearchbench",
 		"price": 1375,
-		"category": "",
+		"category": "Misc",
 		"defname": "NuclearResearchBench"
 	},
 	{
@@ -2997,7 +3021,7 @@
 	{
 		"abr": "sacs",
 		"price": 1167,
-		"category": "",
+		"category": "Misc",
 		"defname": "PPCWeaponsConsole"
 	},
 	{
@@ -3009,7 +3033,7 @@
 	{
 		"abr": "sandbags",
 		"price": 17,
-		"category": "",
+		"category": "Misc",
 		"defname": "Sandbags"
 	},
 	{
@@ -3027,25 +3051,25 @@
 	{
 		"abr": "sarcophagus",
 		"price": 214,
-		"category": "",
+		"category": "Misc",
 		"defname": "Sarcophagus"
 	},
 	{
 		"abr": "sarcophagustypea",
 		"price": 1167,
-		"category": "",
+		"category": "Misc",
 		"defname": "ReactorSacrophagus"
 	},
 	{
 		"abr": "sarcophagustypev",
 		"price": 1167,
-		"category": "",
+		"category": "Misc",
 		"defname": "ReactorSacrophagusC"
 	},
 	{
 		"abr": "sarcophagustypex",
 		"price": 1167,
-		"category": "",
+		"category": "Misc",
 		"defname": "ReactorSacrophagusB"
 	},
 	{
@@ -3069,7 +3093,7 @@
 	{
 		"abr": "sensorcluster",
 		"price": 3008,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_SensorCluster"
 	},
 	{
@@ -3093,37 +3117,37 @@
 	{
 		"abr": "shieldgenerator",
 		"price": 3175,
-		"category": "",
+		"category": "Misc",
 		"defname": "Building_ShieldGenerator"
 	},
 	{
 		"abr": "shipcomputercore",
 		"price": 9742,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_ComputerCore"
 	},
 	{
 		"abr": "shipcryptosleepcasket",
 		"price": 1725,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_CryptosleepCasket"
 	},
 	{
 		"abr": "shipengine",
 		"price": 5925,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Engine"
 	},
 	{
 		"abr": "shipreactor",
 		"price": 9067,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Reactor"
 	},
 	{
 		"abr": "shipstructuralbeam",
 		"price": 1775,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Beam"
 	},
 	{
@@ -3303,7 +3327,7 @@
 	{
 		"abr": "smallwallmountedairvent",
 		"price": 112,
-		"category": "",
+		"category": "Misc",
 		"defname": "WallAirVentSmall"
 	},
 	{
@@ -3339,7 +3363,7 @@
 	{
 		"abr": "solargenerator",
 		"price": 492,
-		"category": "",
+		"category": "Misc",
 		"defname": "SolarGenerator"
 	},
 	{
@@ -3399,13 +3423,13 @@
 	{
 		"abr": "steampipe",
 		"price": 11,
-		"category": "",
+		"category": "Misc",
 		"defname": "steamPipe"
 	},
 	{
 		"abr": "steamvalve",
 		"price": 50,
-		"category": "",
+		"category": "Misc",
 		"defname": "steamValve"
 	},
 	{
@@ -3429,7 +3453,7 @@
 	{
 		"abr": "stonecampfire",
 		"price": 128,
-		"category": "",
+		"category": "Misc",
 		"defname": "Stone_Campfire"
 	},
 	{
@@ -3447,7 +3471,7 @@
 	{
 		"abr": "storagepool",
 		"price": 1850,
-		"category": "",
+		"category": "Misc",
 		"defname": "storagePool"
 	},
 	{
@@ -3459,7 +3483,7 @@
 	{
 		"abr": "subsurfaceconduit",
 		"price": 15,
-		"category": "",
+		"category": "Misc",
 		"defname": "MUR_SubsurfaceConduit"
 	},
 	{
@@ -3501,13 +3525,13 @@
 	{
 		"abr": "surroundairvent",
 		"price": 675,
-		"category": "",
+		"category": "Misc",
 		"defname": "SurroundAirVent"
 	},
 	{
 		"abr": "surroundairventwide",
 		"price": 1342,
-		"category": "",
+		"category": "Misc",
 		"defname": "SurroundAirVentWide"
 	},
 	{
@@ -3585,7 +3609,7 @@
 	{
 		"abr": "tacs",
 		"price": 1258,
-		"category": "",
+		"category": "Misc",
 		"defname": "RadarDish"
 	},
 	{
@@ -3603,12 +3627,12 @@
 	{
 		"abr": "tealsterilewall",
 		"price": 61,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileTeal"
 	},
 	{
 		"abr": "techprofsubpersonacore",
-		"price": 1667,
+		"price": 1000,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore"
 	},
@@ -3621,13 +3645,13 @@
 	{
 		"abr": "teslacoil",
 		"price": 792,
-		"category": "",
+		"category": "Misc",
 		"defname": "PPCTeslaCoil"
 	},
 	{
 		"abr": "thorturbine",
 		"price": 2017,
-		"category": "",
+		"category": "Misc",
 		"defname": "Turbine"
 	},
 	{
@@ -3669,7 +3693,7 @@
 	{
 		"abr": "torchlamp",
 		"price": 41,
-		"category": "",
+		"category": "Misc",
 		"defname": "TorchLamp"
 	},
 	{
@@ -3693,7 +3717,7 @@
 	{
 		"abr": "transportpod",
 		"price": 253,
-		"category": "",
+		"category": "Misc",
 		"defname": "TransportPod"
 	},
 	{
@@ -3765,7 +3789,7 @@
 	{
 		"abr": "uraniumslugturret",
 		"price": 2408,
-		"category": "",
+		"category": "Misc",
 		"defname": "Turret_Sniper"
 	},
 	{
@@ -3777,7 +3801,7 @@
 	{
 		"abr": "vent",
 		"price": 97,
-		"category": "",
+		"category": "Misc",
 		"defname": "Vent"
 	},
 	{
@@ -3795,7 +3819,7 @@
 	{
 		"abr": "vulcancannon",
 		"price": 4433,
-		"category": "",
+		"category": "Misc",
 		"defname": "VulcanCannon"
 	},
 	{
@@ -3807,7 +3831,7 @@
 	{
 		"abr": "wall",
 		"price": 17,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall"
 	},
 	{
@@ -3821,6 +3845,12 @@
 		"price": 45,
 		"category": "Furniture",
 		"defname": "WallLamp"
+	},
+	{
+		"abr": "walllight",
+		"price": 64,
+		"category": "Furniture",
+		"defname": "GLWallLamp"
 	},
 	{
 		"abr": "walllight",
@@ -3848,9 +3878,21 @@
 	},
 	{
 		"abr": "walllight(blue)",
+		"price": 64,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Blue"
+	},
+	{
+		"abr": "walllight(blue)",
 		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightBlueVII"
+	},
+	{
+		"abr": "walllight(green)",
+		"price": 64,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Green"
 	},
 	{
 		"abr": "walllight(green)",
@@ -3865,15 +3907,39 @@
 		"defname": "Lighting_MURWallLight"
 	},
 	{
+		"abr": "walllight(orange)",
+		"price": 64,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Orange"
+	},
+	{
+		"abr": "walllight(red)",
+		"price": 64,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Red"
+	},
+	{
 		"abr": "walllight(red)",
 		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightRedVII"
 	},
 	{
+		"abr": "walllight(violet)",
+		"price": 64,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Violet"
+	},
+	{
+		"abr": "walllight(yellow)",
+		"price": 64,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Yellow"
+	},
+	{
 		"abr": "wallmountedairvent",
 		"price": 224,
-		"category": "",
+		"category": "Misc",
 		"defname": "WallAirVent"
 	},
 	{
@@ -3909,19 +3975,19 @@
 	{
 		"abr": "watercooling",
 		"price": 2025,
-		"category": "",
+		"category": "Misc",
 		"defname": "CoolingWater"
 	},
 	{
 		"abr": "watermillgenerator",
 		"price": 1000,
-		"category": "",
+		"category": "Misc",
 		"defname": "WatermillGenerator"
 	},
 	{
 		"abr": "waterproofconduit",
 		"price": 10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WaterproofConduit"
 	},
 	{
@@ -3933,7 +3999,7 @@
 	{
 		"abr": "weaponsresearchbench",
 		"price": 1217,
-		"category": "",
+		"category": "Misc",
 		"defname": "WeaponsBench"
 	},
 	{
@@ -3957,13 +4023,13 @@
 	{
 		"abr": "windturbine",
 		"price": 442,
-		"category": "",
+		"category": "Misc",
 		"defname": "WindTurbine"
 	},
 	{
 		"abr": "window",
 		"price": 25,
-		"category": "",
+		"category": "Misc",
 		"defname": "Window"
 	},
 	{
@@ -3987,7 +4053,7 @@
 	{
 		"abr": "wood-firedgenerator",
 		"price": 442,
-		"category": "",
+		"category": "Misc",
 		"defname": "WoodFiredGenerator"
 	},
 	{
@@ -4011,93 +4077,9 @@
 	{
 		"abr": "zeusturbine",
 		"price": 6075,
-		"category": "",
+		"category": "Misc",
 		"defname": "BigTurbine"
-	},
-	{
-		"abr": "ceilinglamp",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "GLCeilingLamp"
-	},
-	{
-		"abr": "ceilinglamp(blue)",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "GLCeilingLamp_Blue"
-	},
-	{
-		"abr": "ceilinglamp(green)",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "GLCeilingLamp_Green"
-	},
-	{
-		"abr": "ceilinglamp(orange)",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "GLCeilingLamp_Orange"
-	},
-	{
-		"abr": "ceilinglamp(red)",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "GLCeilingLamp_Red"
-	},
-	{
-		"abr": "ceilinglamp(violet)",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "GLCeilingLamp_Violet"
-	},
-	{
-		"abr": "ceilinglamp(yellow)",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "GLCeilingLamp_Yellow"
-	},
-	{
-		"abr": "walllight",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "GLWallLamp"
-	},
-	{
-		"abr": "walllight(blue)",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "GLWallLamp_Blue"
-	},
-	{
-		"abr": "walllight(green)",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "GLWallLamp_Green"
-	},
-	{
-		"abr": "walllight(orange)",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "GLWallLamp_Orange"
-	},
-	{
-		"abr": "walllight(red)",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "GLWallLamp_Red"
-	},
-	{
-		"abr": "walllight(violet)",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "GLWallLamp_Violet"
-	},
-	{
-		"abr": "walllight(yellow)",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "GLWallLamp_Yellow"
 	}
 	],
-	"total": 683
+	"total": 680
 }
