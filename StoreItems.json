@@ -182,7 +182,7 @@
 	},
 	{
 		"abr": "alc",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "ALC"
 	},
@@ -314,13 +314,13 @@
 	},
 	{
 		"abr": "atom",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "ATOM"
 	},
 	{
 		"abr": "autoglassdoor",
-		"price": 17,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AutoDoorGlass"
 	},
@@ -332,7 +332,7 @@
 	},
 	{
 		"abr": "autodoor",
-		"price": 323,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Autodoor"
 	},
@@ -392,7 +392,7 @@
 	},
 	{
 		"abr": "beamsplitter",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "BeamSplitter"
 	},
@@ -596,7 +596,7 @@
 	},
 	{
 		"abr": "bluesterilewall",
-		"price": 61,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Wall_SterileBlue"
 	},
@@ -650,7 +650,7 @@
 	},
 	{
 		"abr": "brownsterilewall",
-		"price": 61,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Wall_SterileBrown"
 	},
@@ -902,7 +902,7 @@
 	},
 	{
 		"abr": "controlrodactuator",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "ControlRodActuator"
 	},
@@ -968,7 +968,7 @@
 	},
 	{
 		"abr": "creamsterilewall",
-		"price": 61,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Wall_SterileCream"
 	},
@@ -1004,7 +1004,7 @@
 	},
 	{
 		"abr": "darksterilewall",
-		"price": 61,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Wall_SterileDark"
 	},
@@ -1070,31 +1070,31 @@
 	},
 	{
 		"abr": "door",
-		"price": 88,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Door"
 	},
 	{
 		"abr": "door(1x2)",
-		"price": 172,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "PH_DoorDouble"
 	},
 	{
 		"abr": "door(3x1)",
-		"price": 260,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "PH_DoorTriple"
 	},
 	{
 		"abr": "doorbutton",
-		"price": 86,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PH_DoorButton"
 	},
 	{
 		"abr": "doorlever",
-		"price": 70,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PH_DoorLever"
 	},
@@ -1142,7 +1142,7 @@
 	},
 	{
 		"abr": "dublastdoor",
-		"price": 625,
+		"price": -10,
 		"category": "Misc",
 		"defname": "DU_Blastdoor"
 	},
@@ -1298,7 +1298,7 @@
 	},
 	{
 		"abr": "ers",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "ERS"
 	},
@@ -1472,7 +1472,7 @@
 	},
 	{
 		"abr": "glassdoor",
-		"price": 17,
+		"price": -10,
 		"category": "Misc",
 		"defname": "DoorGlass"
 	},
@@ -1514,7 +1514,7 @@
 	},
 	{
 		"abr": "goldsterilewall",
-		"price": 61,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Wall_SterileGold"
 	},
@@ -1556,7 +1556,7 @@
 	},
 	{
 		"abr": "greensterilewall",
-		"price": 61,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Wall_SterileGreen"
 	},
@@ -1694,7 +1694,7 @@
 	},
 	{
 		"abr": "human",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Human"
 	},
@@ -1856,7 +1856,7 @@
 	},
 	{
 		"abr": "jaildoor",
-		"price": 542,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "PH_DoorJail"
 	},
@@ -1952,7 +1952,7 @@
 	},
 	{
 		"abr": "lensmodule",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "LenseModule"
 	},
@@ -2222,7 +2222,7 @@
 	},
 	{
 		"abr": "meps",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "MEPS"
 	},
@@ -2444,13 +2444,13 @@
 	},
 	{
 		"abr": "outdoorgroundlamp",
-		"price": 36,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "OutdoorGroundLamp"
 	},
 	{
 		"abr": "outdoorlamp",
-		"price": 128,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Light_Streetlamp"
 	},
@@ -2828,13 +2828,13 @@
 	},
 	{
 		"abr": "redsterilewall",
-		"price": 61,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Wall_SterileRed"
 	},
 	{
 		"abr": "reinforcedduwall",
-		"price": 157,
+		"price": -10,
 		"category": "Misc",
 		"defname": "RadiationShielding"
 	},
@@ -2852,13 +2852,13 @@
 	},
 	{
 		"abr": "remotedoor(1x1)",
-		"price": 241,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "PH_DoorRemoteSingle"
 	},
 	{
 		"abr": "remotedoor(2x1)",
-		"price": 475,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "PH_DoorRemoteDouble"
 	},
@@ -3074,7 +3074,7 @@
 	},
 	{
 		"abr": "scad",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "SCAD"
 	},
@@ -3326,7 +3326,7 @@
 	},
 	{
 		"abr": "smallwallmountedairvent",
-		"price": 112,
+		"price": -10,
 		"category": "Misc",
 		"defname": "WallAirVentSmall"
 	},
@@ -3620,13 +3620,13 @@
 	},
 	{
 		"abr": "targetingchip",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics Product",
 		"defname": "TargetingChip"
 	},
 	{
 		"abr": "tealsterilewall",
-		"price": 61,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Wall_SterileTeal"
 	},
@@ -3830,7 +3830,7 @@
 	},
 	{
 		"abr": "wall",
-		"price": 17,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Wall"
 	},
@@ -3842,103 +3842,103 @@
 	},
 	{
 		"abr": "walllamp",
-		"price": 45,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "WallLamp"
 	},
 	{
 		"abr": "walllight",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLWallLamp"
 	},
 	{
 		"abr": "walllight",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightVII"
 	},
 	{
 		"abr": "walllight((blue)old)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightBlue"
 	},
 	{
 		"abr": "walllight((green)old)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightGreen"
 	},
 	{
 		"abr": "walllight((red)old)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightRed"
 	},
 	{
 		"abr": "walllight(blue)",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLWallLamp_Blue"
 	},
 	{
 		"abr": "walllight(blue)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightBlueVII"
 	},
 	{
 		"abr": "walllight(green)",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLWallLamp_Green"
 	},
 	{
 		"abr": "walllight(green)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightGreenVII"
 	},
 	{
 		"abr": "walllight(old)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLight"
 	},
 	{
 		"abr": "walllight(orange)",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLWallLamp_Orange"
 	},
 	{
 		"abr": "walllight(red)",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLWallLamp_Red"
 	},
 	{
 		"abr": "walllight(red)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightRedVII"
 	},
 	{
 		"abr": "walllight(violet)",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLWallLamp_Violet"
 	},
 	{
 		"abr": "walllight(yellow)",
-		"price": 64,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLWallLamp_Yellow"
 	},
 	{
 		"abr": "wallmountedairvent",
-		"price": 224,
+		"price": -10,
 		"category": "Misc",
 		"defname": "WallAirVent"
 	},
